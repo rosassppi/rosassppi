@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rosângela, mas sou conhecida como Rosa :)<br><br>Sou de São Paulo e tenho grande interesse por tecnologia, resolução de problemas e construção de soluções através do código.</p>
+<p align="left">Meu nome é Rosângela, mas sou conhecida como Rosa :)<br><br>Sou de São Paulo e tenho grande interesse por tecnologia e resolução de problemas.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs e aprendendo com eles.<br>👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, atualmente no 1º período.  <br>📚 Atualmente estudando Python, SQL, automação e análise de dados.<br>🎯 Objetivos: construir projetos úteis, automatizar processos e transformar dados em informações que geram decisões.<br>🎲 Curiosidade: adoro organizar dados, criar lógica para resolver problemas e transformar tarefas manuais em código.</p>
+<p align="left">✨ Criando bugs e aprendendo com eles.<br>👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, atualmente no 2º período.  <br>📚 Atualmente estudando Python, SQL, Excel, automação e análise de dados.<br>🎯 Objetivos: construir projetos úteis, automatizar processos e transformar dados em informações que geram decisões.<br>🎲 Curiosidade: adoro organizar dados, criar lógica para resolver problemas e transformar tarefas manuais em código.</p>
 
 ###
 
